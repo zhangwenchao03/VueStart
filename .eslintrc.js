@@ -5,7 +5,7 @@ module.exports = {
   parserOptions: {
     parser: 'babel-eslint'
   },
-  env: {
+    env: {
     browser: true,
   },
   extends: [

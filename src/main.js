@@ -5,9 +5,10 @@ import App from './App'
 import router from './router'
 import fastClick from 'fastclick'
 //  重置浏览器样式表
-import './assets/styles/normalize.css'
+import 'styles/normalize.css'
 // 解决移动端1PX边框问题
-import './assets/styles/border.css'
+import 'styles/border.css'
+import 'styles/iconfont.css'
 Vue.config.productionTip = false
 fastClick.attach(document.body)
 /* eslint-disable no-new */
