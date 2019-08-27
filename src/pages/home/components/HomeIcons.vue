@@ -1,72 +1,35 @@
 <template>
   <div class='icons'>
-    <swiper>
+    <swiper :options="swiperOption">
       <!-- slides -->
       <swiper-slide v-for="(page,index) of pages" :key='index'>
         <div class='icon' v-for='item of page' :key='item.id'>
           <div class='icon-image'>
             <img class='image-content' :src='item.imgUrl'>
           </div>
-         <p class='icon-desc'>{{item.imgDesc}}</p>
+         <p class='icon-desc'>{{item.desc}}</p>
         </div>
       </swiper-slide>
     </swiper>
-    <div class='icon' v-for='item of IconList' :key='item.id'>
-      <div class='icon-image'>
-        <img class='image-content' :src='item.imgUrl'>
-      </div>
-      <p class='icon-desc'>{{item.imgDesc}}</p>
-    </div>
   </div>
 </template>
 <script>
 export default {
   name: 'HomeIcons',
+  props: {
+    list: Array
+  },
   data () {
     return {
-      IconList: [{
-        id: '001',
-        imgUrl: 'https://s.qunarzz.com/homenode/images/touchheader/hotel.png',
-        imgDesc: '酒店'
-      }, {
-        id: '002',
-        imgUrl: 'https://s.qunarzz.com/homenode/images/touchheader/hotel.png',
-        imgDesc: '酒店'
-      }, {
-        id: '003',
-        imgUrl: 'https://s.qunarzz.com/homenode/images/touchheader/hotel.png',
-        imgDesc: '酒店'
-      }, {
-        id: '004',
-        imgUrl: 'https://s.qunarzz.com/homenode/images/touchheader/hotel.png',
-        imgDesc: '酒店'
-      }, {
-        id: '005',
-        imgUrl: 'https://s.qunarzz.com/homenode/images/touchheader/hotel.png',
-        imgDesc: '酒店'
-      }, {
-        id: '006',
-        imgUrl: 'https://s.qunarzz.com/homenode/images/touchheader/hotel.png',
-        imgDesc: '酒店'
-      }, {
-        id: '007',
-        imgUrl: 'https://s.qunarzz.com/homenode/images/touchheader/hotel.png',
-        imgDesc: '酒店'
-      }, {
-        id: '008',
-        imgUrl: 'https://s.qunarzz.com/homenode/images/touchheader/hotel.png',
-        imgDesc: '酒店'
-      }, {
-        id: '009',
-        imgUrl: 'https://s.qunarzz.com/homenode/images/touchheader/hotel.png',
-        imgDesc: '酒店'
-      }]
+      swiperOption: {
+        autoplay: false
+      }
     }
   },
   computed: {
     pages () {
       const pgs = []
-      this.IconList.forEach(
+      this.list.forEach(
         (item, index) => {
           let i = Math.floor(index / 8)
           if (!pgs[i]) {
@@ -85,6 +48,7 @@ export default {
     width: 100%
     height: 0
     padding-bottom: 50%
+    margin-top: 0.2rem
     .icon
       position: relative
       float: left
