@@ -14,6 +14,7 @@ import 'styles/iconfont.css'
 
 Vue.use(VueAwesomeSwiper)
 Vue.config.productionTip = false
+Vue.use(VueAwesomeSwiper)
 fastClick.attach(document.body)
 /* eslint-disable no-new */
 new Vue({

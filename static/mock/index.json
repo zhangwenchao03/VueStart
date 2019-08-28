@@ -1,0 +1,107 @@
+{
+  "ret": true,
+  "data": {
+    "swiperList": [{
+        "id": "0001",
+        "imgUrl": "https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/3afcd3ace835ef3d0574be8f1f2f63c9.jpg_r_640x290x70_fa4ea15c.jpg"
+      },{
+        "id": "0002",
+        "imgUrl": "https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/9222dc2064de6ab9b122272c5200f1af.jpg_r_640x290x70_73682f61.jpg"
+      },{
+        "id": "0003",
+        "imgUrl": "https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/fc095bd09000b60b89c45b508be0734e.jpg_r_640x290x70_a279fb5c.jpg"
+      },{
+        "id": "0004",
+        "imgUrl": "https://img1.qunarzz.com/piao/fusion/1712/91/a275569091681d02.jpg_640x200_0519ccb9.jpg"
+      }],
+    "iconList": [{
+        "id": "0001",
+        "imgUrl": "https://s.qunarzz.com/homenode/images/touchheader/hotel.png",
+        "desc": "酒店"
+      }, {
+        "id": "0002",
+        "imgUrl": "https://s.qunarzz.com/homenode/images/touchheader/flight.png",
+        "desc": "机票"
+      }, {
+        "id": "0003",
+        "imgUrl": "https://s.qunarzz.com/homenode/images/touchheader/package.png",
+        "desc": "度假"
+      }, {
+        "id": "0004",
+        "imgUrl": "https://s.qunarzz.com/homenode/images/touchheader/piao.png",
+        "desc": "景点门票"
+      }, {
+        "id": "0005",
+        "imgUrl": "https://s.qunarzz.com/homenode/images/touchheader/inn.png",
+        "desc": "客栈"
+      }, {
+        "id": "0006",
+        "imgUrl": "https://s.qunarzz.com/homenode/images/touchheader/kezhan.png",
+        "desc": "民宿"
+      }, {
+        "id": "0007",
+        "imgUrl": "https://s.qunarzz.com/homenode/images/touchheader/freeTravel.png",
+        "desc": "自由行"
+      }, {
+        "id": "0008",
+        "imgUrl": "https://s.qunarzz.com/homenode/images/touchheader/haiwai.png",
+        "desc": "城市观光"
+      }, {
+        "id": "0009",
+        "imgUrl": "https://s.qunarzz.com/homenode/images/touchheader/piao.png",
+        "desc": "一日游"
+      }],
+    "recommendList": [{
+        "id": "0001",
+        "imgUrl": "https://img1.qunarzz.com/travel/d8/1503/72/5815ced2e98655.jpg_r_200x130x95_46df42d7.jpg",
+        "title": "护国寺小吃",
+        "desc": "吃了都说好，谁吃都忘不了"
+      }, {
+        "id": "0002",
+        "imgUrl": "https://img1.qunarzz.com/travel/poi/201303/14/7ee50d5acddb7d82ddb12cfb.jpg_r_200x130x95_9c3aa385.jpg",
+        "title": "王府井",
+        "desc": "吃了都说好，谁吃都忘不了"
+      }, {
+        "id": "0003",
+        "imgUrl": "https://img1.qunarzz.com/sight/p0/1501/f4/f467729126949c3a.water.jpg_140x140_ef235b1c.jpg",
+        "title": "天安门广场",
+        "desc": "我爱北京天安门，天安门上太阳升"
+      }, {
+        "id": "0004",
+        "imgUrl": "https://img1.qunarzz.com/sight/p0/1501/40/40b2b6c951b28fdd.water.jpg_140x140_1c863e5c.jpg",
+        "title": "水立方",
+        "desc": "中国的荣耀，阳光下的晶莹水滴"
+      }, {
+        "id": "0005",
+        "imgUrl": "https://img1.qunarzz.com/sight/p0/201308/23/b283071686e64dfec8d65eac.jpg_140x140_8c5a7c49.jpg",
+        "title": "温都水城养生馆",
+        "desc": "各种亚热带植物掩映其间仿佛置身热带雨林"
+      }],
+    "weekendList": [{
+        "id": "0001",
+        "imgUrl": "https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/296b80cbfccfc6579c96828e7d9fc075.jpg_r_640x290x70_e0f84e2a.jpg",
+        "title": "北京温泉排行榜",
+        "desc": "细数北京温泉，温暖你的冬天"
+      }, {
+        "id": "0002",
+        "imgUrl": "https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/6f77e8e16ebe3676912a97c9390f4b18.jpg_r_640x290x70_26185a99.jpg",
+        "title": "北京必游TOP10",
+        "desc": "来北京必去的景点非这些地方莫属"
+      }, {
+        "id": "0003",
+        "imgUrl": "https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/bd1cd52041d69d040079e79486eb46ce.jpg_r_640x290x70_a86f731d.jpg",
+        "title": "寻找北京的皇城范儿",
+        "desc": "数百年的宫廷庙宇，至今依旧威严霸气"
+      }, {
+        "id": "0004",
+        "imgUrl": "https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/7a4a9d7f983dec39e72a548ed504cb77.jpg_r_640x290x70_ac977ded.jpg",
+        "title": "学生最爱的博物馆",
+        "desc": "周末干嘛？北京很多博物馆已经免费开放啦"
+      }, {
+        "id": "0005",
+        "imgUrl": "https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/7a4a9d7f983dec39e72a548ed504cb77.jpg_r_640x290x70_ac977ded.jpg",
+        "title": "儿童剧场，孩子的乐园",
+        "desc": "带宝贝观看演出，近距离体验艺术的无穷魅力"
+      }]
+  }
+}
