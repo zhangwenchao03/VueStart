@@ -6,10 +6,13 @@
     <div class='header-input'>
       <span class="iconfont iconsousuo"></span>
     shuru</div>
-    <div class='header-right'>
+    <router-link to='/city'>
+      <div class='header-right'>
       city
       <span class="iconfont iconarrow-down down-arrow"></span>
-    </div>
+      </div>
+    </router-link>
+
   </div>
 </template>
 
