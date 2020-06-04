@@ -106,3 +106,79 @@ $ git reset --hard origin/master 与master分支保持一致
 hotfix 往dev 的pr 冲突  本地分支 merge dev  然后merge hotfix  解决冲突  本地推到dev
 
 git remote update origin --prune   # 更新远程主机origin 整理分支
+
+
+## 习惯
+[8 个 Tips 让你更好的进行 Code Review](https://blog.fundebug.com/2019/05/16/8-tips-for-great-code-reviews/)
+[如何写出少bug的代码，你需要这4点建议](https://blog.fundebug.com/2018/08/09/four-clean-code-tips/)
+[写给工程师的十条精进原则](https://blog.fundebug.com/2018/09/13/10-principle-for-programer/)
+[写给前端工程师的10条实用原则](https://blog.fundebug.com/2018/08/29/10-things-you-will-eventually-learn-about-js-projects/)
+[突破自己的技术思维](https://blog.fundebug.com/2019/02/26/about-technology-trap/)
+
+## 基础
+[React入门看这篇就够了](https://blog.fundebug.com/2019/06/10/react-complete-tutorial/)
+[JavaScript函数式编程究竟是什么?](https://blog.fundebug.com/2019/08/07/javascript-functional-programing-introduction/)
+[还不会正则表达式？看这篇！](https://blog.fundebug.com/2019/06/19/regular-expression-tutorial/)
+[掌握 Async/Await](https://blog.fundebug.com/2019/05/08/master-async-await/)
+[前端开发者必备的Nginx知识](https://blog.fundebug.com/2019/06/13/nginx-knowledge-for-frontend/)
+[如何使用 Set 来提高JS代码的性能](https://blog.fundebug.com/2019/07/12/speedup-javascript-use-set/)
+[JavaScript中的递归](https://blog.fundebug.com/2017/06/14/all-about-recursions/)
+[你所不知道的JSON.stringify](https://blog.fundebug.com/2017/08/17/what-you-didnt-know%20about-json-stringify/)
+[每个JavaScript工程师都应懂的33个概念](https://blog.fundebug.com/2018/10/30/33-js-concepts/)
+[如何给localStorage设置一个过期时间？](https://blog.fundebug.com/2018/11/26/set-expire-time-for-localstorage/)
+[抛弃console.log()，拥抱浏览器Debugger](https://blog.fundebug.com/2018/12/11/stop-using-console-log/)
+[九种跨域方式实现原理（完整版）](https://blog.fundebug.com/2019/01/28/9-ways-of-cross-origin/)
+[JavaScript 为什么要有 Symbol 类型？](https://blog.fundebug.com/2019/03/19/why-does-javascript-need-symbol/)
+[分享下写技术文章的思路](https://blog.fundebug.com/2018/09/29/how-to-write-technology-blog/)
+
+## 进阶
+
+[JavaScript是如何工作的:渲染引擎和优化其性能的技巧](https://segmentfault.com/a/1190000017872125#articleHeader0)
+[JS引擎是如何工作的？从调用堆栈到Promise](https://blog.fundebug.com/2019/07/02/javascript-from-callback-to-promise/)
+[详解JavaScript的任务、微任务、队列以及代码执行顺序](https://blog.fundebug.com/2019/07/25/tasks-microtasks-queues-and-schedules/)
+[JavaScript正则表达式进阶指南](https://blog.fundebug.com/2018/05/02/advanced_regular_expression/)
+[JavaScript复杂判断的更优雅写法](https://blog.fundebug.com/2018/11/08/elegant-way-of-writing-if-in-javascript/)
+[JavaScript如何工作:内存管理+如何处理4个常见的内存泄漏](https://blog.fundebug.com/2018/12/18/how-does-javascript-manage-memory/)
+[浏览器缓存机制](https://blog.fundebug.com/2019/01/08/browser-cache-mechanism/)
+[JavaScript是如何工作的：CSS和JS动画底层原理及如何优化它们的性能](https://blog.fundebug.com/2019/01/18/understand-css-and-javascript-animations/)
+[如何优雅地查看 JS 错误堆栈？](https://blog.fundebug.com/2019/03/08/how-to-check-javascript-stacktrace/)
+[深入了解浏览器存储：对比Cookie、LocalStorage、sessionStorage与IndexedDB](https://blog.fundebug.com/2019/04/08/about-browser-storage/)
+[ESLint 工作原理探讨](https://blog.fundebug.com/2019/05/22/understand-eslint/)
+
+## 性能
+
+[全面分析前端的网络请求方式](https://blog.fundebug.com/2019/05/30/methods-to-initiate-http-request-of-frontend/)
+[JavaScript 是如何工作的：JavaScript 的共享传递和按值传递](https://blog.fundebug.com/2019/04/18/master-javascript-call-by-sharing-parameter-passing/)
+[Web 性能优化：Preload与Prefetch的使用及在 Chrome 中的优先级](https://blog.fundebug.com/2019/04/11/understand-preload-and-prefetch/)
+[Web 性能优化： 使用 Webpack 分离数据的正确方法](https://blog.fundebug.com/2019/03/04/webpack-bundle-split/)
+[WEB 实时推送技术的总结](https://blog.fundebug.com/2019/03/14/real-time-communication-technologies-of-web/)
+
+## 技术储备
+[WebAssembly的前世今身](https://blog.fundebug.com/2019/06/06/about-webassembly/)
+[JavaScript是如何工作的：Web Workers的构建块 + 5个使用他们的场景](https://blog.fundebug.com/2019/01/02/understand-web-workes/)
+[JavaScript 是如何工作的：WebRTC和对等网络的机制！](https://blog.fundebug.com/2019/01/30/understand-webrtc/)
+[前端异常监控解决方案研究](https://blog.fundebug.com/2019/08/29/frontend-exception-monitor-research/)
+[JavaScript是如何工作：Shadow DOM的内部结构 + 如何编写独立的组件！](https://blog.fundebug.com/2019/01/29/understand-shadow-dom/)
+[漫淡终端技术未来](https://blog.fundebug.com/2018/12/14/about-the-future-of-frontend/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
