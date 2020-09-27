@@ -130,7 +130,7 @@ git remote update origin --prune   # 更新远程主机origin 整理分支
 [九种跨域方式实现原理（完整版）](https://blog.fundebug.com/2019/01/28/9-ways-of-cross-origin/)
 [JavaScript 为什么要有 Symbol 类型？](https://blog.fundebug.com/2019/03/19/why-does-javascript-need-symbol/)
 [分享下写技术文章的思路](https://blog.fundebug.com/2018/09/29/how-to-write-technology-blog/)
-[js原型知识体系]（https://mp.weixin.qq.com/s?__biz=MzUyNDYxNDAyMg==&mid=2247484775&idx=1&sn=edfc928554658d77f13cb3354b63faaf&chksm=fa2be58ecd5c6c9870a9bd91cc912bf06a05e2d2385b78ead58012bfc4f07bb4aa6f62af6b81&mpshare=1&srcid=&sharer_sharetime=1576310392818&sharer_shareid=4c72bf15b50850d3c765d185663dc2e4&from=singlemessage&scene=1&subscene=10000&clicktime=1596013605&enterid=1596013605&ascene=1&devicetype=android-29&version=3.0.31.2998&nettype=3gnet&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=ASUFkqLvziWAZdKXssxhgSE%3D&pass_ticket=EIT8DtMO5JPBjLsXqaLqTCGOOcq%2BJ3qQo7EAIbV%2F7AC729vMTcmwNQrljPaX%2F0LJ&wx_header=1&platform=win）
+[js原型知识体系](https://mp.weixin.qq.com/s?__biz=MzUyNDYxNDAyMg==&mid=2247484775&idx=1&sn=edfc928554658d77f13cb3354b63faaf&chksm=fa2be58ecd5c6c9870a9bd91cc912bf06a05e2d2385b78ead58012bfc4f07bb4aa6f62af6b81&mpshare=1&srcid=&sharer_sharetime=1576310392818&sharer_shareid=4c72bf15b50850d3c765d185663dc2e4&from=singlemessage&scene=1&subscene=10000&clicktime=1596013605&enterid=1596013605&ascene=1&devicetype=android-29&version=3.0.31.2998&nettype=3gnet&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=ASUFkqLvziWAZdKXssxhgSE%3D&pass_ticket=EIT8DtMO5JPBjLsXqaLqTCGOOcq%2BJ3qQo7EAIbV%2F7AC729vMTcmwNQrljPaX%2F0LJ&wx_header=1&platform=win)
 ## 进阶
 
 [JavaScript是如何工作的:渲染引擎和优化其性能的技巧](https://segmentfault.com/a/1190000017872125#articleHeader0)
